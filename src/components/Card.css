@@ -1,0 +1,77 @@
+.card{
+    padding-left: 40px;
+    padding-right: 40px;
+    display: flex;
+    margin-bottom: 18px;
+}
+
+.cardImage{
+    width: 125px;
+    height: 168px;
+    border-radius: 5px;
+}
+
+.cardText{
+    margin: 19px;
+}
+
+.cardTextLocation{
+    display: flex;
+}
+
+.locationIcon{
+    height: 9.55px;
+    margin-right: 4px;
+}
+
+.cardLocation{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10.24px;
+    line-height: 12px;
+    letter-spacing: 0.17em;
+}
+
+.linkText{
+    margin-left: 12px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10.24px;
+    line-height: 12px;
+    color: #918E9B;
+}
+
+.cardTitle{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 30px;
+    margin-bottom: 12px;
+}
+
+.cardDate{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 10.24px;
+    line-height: 12px;
+    margin-bottom: 8px;
+}
+
+.cardDescription{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10.24px;
+    line-height: 150%;
+}
+
+.cardDivider{
+    border: 1px solid #F5F5F5;
+    margin-bottom: 18px;
+    margin-left: 40px;
+    margin-right: 32px;
+}

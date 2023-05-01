@@ -1,0 +1,24 @@
+.navbar{
+    height: 55px;
+    background: #F55A5A;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 40px;
+}
+
+.logo{
+    width: 24px;
+    height: 24px;
+    margin-right: 9px;
+}
+
+.navText{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14.4608px;
+    line-height: 18px;
+    letter-spacing: -0.075em;
+    color: white;
+}
